@@ -1,0 +1,7 @@
+C:\Users\EVG\source\repos\10 глава\10 глава\bin\Debug\10 глава.exe.config
+C:\Users\EVG\source\repos\10 глава\10 глава\bin\Debug\10 глава.exe
+C:\Users\EVG\source\repos\10 глава\10 глава\bin\Debug\10 глава.pdb
+C:\Users\EVG\source\repos\10 глава\10 глава\obj\Debug\10 глава.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\10 глава\10 глава\obj\Debug\10 глава.csproj.CoreCompileInputs.cache
+C:\Users\EVG\source\repos\10 глава\10 глава\obj\Debug\10 глава.exe
+C:\Users\EVG\source\repos\10 глава\10 глава\obj\Debug\10 глава.pdb
