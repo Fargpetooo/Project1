@@ -1,0 +1,7 @@
+C:\Users\EVG\source\repos\глава 19\глава 19\obj\Debug\глава 19.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\глава 19\глава 19\obj\Debug\глава 19.csproj.CoreCompileInputs.cache
+C:\Users\EVG\source\repos\глава 19\глава 19\bin\Debug\глава 19.exe.config
+C:\Users\EVG\source\repos\глава 19\глава 19\bin\Debug\глава 19.exe
+C:\Users\EVG\source\repos\глава 19\глава 19\bin\Debug\глава 19.pdb
+C:\Users\EVG\source\repos\глава 19\глава 19\obj\Debug\глава 19.exe
+C:\Users\EVG\source\repos\глава 19\глава 19\obj\Debug\глава 19.pdb
