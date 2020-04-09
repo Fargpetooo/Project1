@@ -1,2 +1,0 @@
-C:\Users\EVG\source\repos\глава 20\глава 20\obj\Debug\глава 20.csproj.CoreCompileInputs.cache
-C:\Users\EVG\source\repos\глава 20\глава 20\obj\Debug\глава 20.csprojAssemblyReference.cache
