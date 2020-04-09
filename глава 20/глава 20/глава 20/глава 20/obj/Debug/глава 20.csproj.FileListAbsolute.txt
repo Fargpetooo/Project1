@@ -1,7 +1,0 @@
-C:\Users\EVG\source\repos\глава 20\глава 20\obj\Debug\глава 20.csproj.CoreCompileInputs.cache
-C:\Users\EVG\source\repos\глава 20\глава 20\obj\Debug\глава 20.csprojAssemblyReference.cache
-C:\Users\EVG\source\repos\глава 20\глава 20\bin\Debug\глава 20.exe.config
-C:\Users\EVG\source\repos\глава 20\глава 20\bin\Debug\глава 20.exe
-C:\Users\EVG\source\repos\глава 20\глава 20\bin\Debug\глава 20.pdb
-C:\Users\EVG\source\repos\глава 20\глава 20\obj\Debug\глава 20.exe
-C:\Users\EVG\source\repos\глава 20\глава 20\obj\Debug\глава 20.pdb
