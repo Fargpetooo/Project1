@@ -1,0 +1,2 @@
+C:\Users\EVG\source\repos\глава 23\глава 23\obj\Debug\глава 23.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\глава 23\глава 23\obj\Debug\глава 23_MarkupCompile.cache
