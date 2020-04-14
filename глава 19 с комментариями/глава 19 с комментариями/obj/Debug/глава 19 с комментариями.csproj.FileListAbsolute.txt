@@ -1,0 +1,5 @@
+C:\Users\EVG\source\repos\глава 19 с комментариями\глава 19 с комментариями\obj\Debug\глава 19 с комментариями.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\глава 19 с комментариями\глава 19 с комментариями\obj\Debug\UserControl1.baml
+C:\Users\EVG\source\repos\глава 19 с комментариями\глава 19 с комментариями\obj\Debug\глава 19 с комментариями_MarkupCompile.cache
+C:\Users\EVG\source\repos\глава 19 с комментариями\глава 19 с комментариями\obj\Debug\глава 19 с комментариями.g.resources
+C:\Users\EVG\source\repos\глава 19 с комментариями\глава 19 с комментариями\obj\Debug\глава 19 с комментариями.csproj.CoreCompileInputs.cache
