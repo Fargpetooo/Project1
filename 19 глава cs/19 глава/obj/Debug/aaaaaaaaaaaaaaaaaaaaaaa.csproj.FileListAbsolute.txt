@@ -1,0 +1,7 @@
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaaa.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaaaaaaaa.exe.config
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaaaaaaaa.exe
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\bin\Debug\aaaaaaaaaaaaaaaaaaaaaaa.pdb
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaaa.exe
+C:\Users\EVG\source\repos\aaaaaaaaaaaaaaaaaaaaaaa\aaaaaaaaaaaaaaaaaaaaaaa\obj\Debug\aaaaaaaaaaaaaaaaaaaaaaa.pdb
