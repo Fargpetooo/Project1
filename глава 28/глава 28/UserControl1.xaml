@@ -1,0 +1,30 @@
+﻿<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <Path Canvas.Left="150" Canvas.Top="150" StrokeThickness="25">
+        <!-- размеры и местоположение рисунка, 3 строчка-->
+        <Path.Stroke>
+            <LinearGradientBrush>
+                <LinearGradientBrush.GradientStops> 
+                    <!--раскрасска картинки -->
+                    <GradientStop Offset="0.00" Color="Red" />
+                    <GradientStop Offset="0.19" Color="Orange" />
+                    <GradientStop Offset="0.33" Color="Yellow" />
+                    <GradientStop Offset="0.50" Color="Green" />
+                    <GradientStop Offset="0.67" Color="Blue" />
+                    <GradientStop Offset="0.84" Color="Indigo" />
+                    <GradientStop Offset="1.00" Color="Violet" />
+                </LinearGradientBrush.GradientStops>
+            </LinearGradientBrush>
+        </Path.Stroke>
+        <Path.Data>
+            <PathGeometry>
+                <!-- задание параметров фигуры-->
+                <PathGeometry.Figures>
+                    <PathFigure StartPoint="0 -100">
+                        <PolyBezierSegment Points=" -55 -100, -100 -55, -10 0, -100 55, -55 100, 0 100, 55 100, 100 50, 150 0, 200 -50, 245 -100, 300 -100, 355 -100, 400 -55, 900 0, 500 55, 355 100, 300 100, 145 100, 300 50, 150 0, 100 -50, 55 -100, 0 -100" />
+                    </PathFigure>
+                </PathGeometry.Figures>
+            </PathGeometry>
+        </Path.Data>
+    </Path>
+</Canvas>
