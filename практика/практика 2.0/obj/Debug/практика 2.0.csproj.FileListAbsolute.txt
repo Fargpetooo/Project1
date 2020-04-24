@@ -1,0 +1,7 @@
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\bin\Debug\практика 2.0.exe.config
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\bin\Debug\практика 2.0.exe
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\bin\Debug\практика 2.0.pdb
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\obj\Debug\практика 2.0.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\obj\Debug\практика 2.0.csproj.CoreCompileInputs.cache
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\obj\Debug\практика 2.0.exe
+C:\Users\EVG\source\repos\практика 2.0\практика 2.0\obj\Debug\практика 2.0.pdb
