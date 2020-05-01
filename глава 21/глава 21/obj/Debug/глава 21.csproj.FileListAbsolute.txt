@@ -1,0 +1,2 @@
+C:\Users\EVG\source\repos\глава 21\глава 21\obj\Debug\глава 21.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\глава 21\глава 21\obj\Debug\глава 21.csproj.CoreCompileInputs.cache
