@@ -1,0 +1,7 @@
+C:\Users\EVG\source\repos\3ддддд\3ддддд\bin\Debug\3ддддд.exe.config
+C:\Users\EVG\source\repos\3ддддд\3ддддд\bin\Debug\3ддддд.exe
+C:\Users\EVG\source\repos\3ддддд\3ддддд\bin\Debug\3ддддд.pdb
+C:\Users\EVG\source\repos\3ддддд\3ддддд\obj\Debug\3ддддд.csprojAssemblyReference.cache
+C:\Users\EVG\source\repos\3ддддд\3ддддд\obj\Debug\3ддддд.csproj.CoreCompileInputs.cache
+C:\Users\EVG\source\repos\3ддддд\3ддддд\obj\Debug\3ддддд.exe
+C:\Users\EVG\source\repos\3ддддд\3ддддд\obj\Debug\3ддддд.pdb
