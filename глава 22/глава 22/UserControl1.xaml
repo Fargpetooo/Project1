@@ -1,0 +1,43 @@
+﻿<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      mc:Ignorable="d"
+WindowTitle="Jeu de Tacquin"
+Background="LightGray"
+Focusable="True"
+KeepAlive="True" Height="247" Width="599">  <!-- описание большого окна, надписи и размеры-->
+    <Grid HorizontalAlignment="Center"
+VerticalAlignment="Center"
+Background="LightGray">  <!--цвет -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" /> 
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" FontFamily="Garamond" 
+                   FontSize="96" 
+                   FontStyle="Italic" 
+                   Margin="12"><Run Text="Jeu de Tacquin"/></TextBlock> <!--расположение и шрифт текста верхней надписи -->
+        <Border Grid.Row="1" 
+                BorderBrush="Black" 
+                BorderThickness = "1" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Center">
+            <UniformGrid x:Name="unigrid" />
+        </Border>
+        <Button Grid.Row="2" 
+                HorizontalAlignment="Left" 
+                Margin="12" MinWidth="1in" 
+                Click="ScrambleOnClick" 
+                Content="Scramble"/><!--местоположение и описание маленьких конпок-->
+        <Button Grid.Row="2" 
+                HorizontalAlignment="Right" 
+                Margin="12" MinWidth="1in" 
+                Click="NextOnClick" Content="Next Larger »"/>
+        <TextBlock Grid.Row="3" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" Margin="12"/>
+    </Grid>
+</Page>
