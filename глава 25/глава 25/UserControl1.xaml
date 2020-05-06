@@ -1,0 +1,46 @@
+﻿<Page xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"    
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Page.Resources>
+        <ControlTemplate x:Key="btnCustom"  TargetType="{x:Type Button}">
+            <!-- VisualTree свойство  ControlTemplate. -->
+            <Border Name="border"  BorderThickness="3" BorderBrush="Red"                 
+                    Background="{TemplateBinding  Foreground}">
+                <!-- описание фона-->
+                <TextBlock Name="txtblk"                           
+                           FontStyle="Italic"                         
+                           Text="{TemplateBinding  Content}"                 
+                           Margin="{TemplateBinding Padding}"                  
+                           Foreground="{TemplateBinding Background}" />
+                <!-- шрифт-->
+            </Border>
+            <!-- запускает свойство ControlTemplate. -->
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver"  Value="True">
+                    <Setter TargetName="border"                             
+                            Property="CornerRadius" Value="12" />
+                    <Setter TargetName="txtblk"                           
+                            Property="FontWeight"  Value="Bold" />
+                </Trigger>
+                <Trigger Property="IsPressed"  Value="True">
+                    <Setter TargetName="border"                            
+                            Property="Background"                          
+                            Value="{Binding  Path=Background}" />
+                    <Setter TargetName="txtblk"                          
+                            Property="Foreground"                           
+                            Value="{Binding  Path=Foreground}" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Page.Resources>
+    <StackPanel>
+        <!--надпись на кнопках и их расположение. высота, поворот, размеры -->
+        <Button Template="{StaticResource btnCustom}"              
+                HorizontalAlignment="Center"  Margin="24"               
+                FontSize="24" Padding="10" Height="61" Width="341" >Button with Custom Template</Button>
+        <Button HorizontalAlignment="Center"  Margin="24"                
+                FontSize="24" Padding="10" Width="195" >Normal Button</Button>
+        <Button Template="{StaticResource btnCustom}"                 
+                HorizontalAlignment="Center"  Margin="24"               
+                FontSize="24" Padding="10" >Another Button with Custom Template</Button>
+    </StackPanel>
+</Page> 
