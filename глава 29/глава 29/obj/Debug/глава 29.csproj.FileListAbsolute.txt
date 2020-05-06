@@ -1,0 +1,6 @@
+C:\Users\EVG\source\repos\глава 29\глава 29\bin\Debug\глава 29.exe.config
+C:\Users\EVG\source\repos\глава 29\глава 29\bin\Debug\глава 29.exe
+C:\Users\EVG\source\repos\глава 29\глава 29\bin\Debug\глава 29.pdb
+C:\Users\EVG\source\repos\глава 29\глава 29\obj\Debug\глава 29.csproj.CoreCompileInputs.cache
+C:\Users\EVG\source\repos\глава 29\глава 29\obj\Debug\глава 29.exe
+C:\Users\EVG\source\repos\глава 29\глава 29\obj\Debug\глава 29.pdb
